@@ -10,3 +10,5 @@ It should expose the following features
 * Integration Test profile to execute integration tests that due not run unit tests
 * separate creation of javadoc to upload into maven candidate repository
 * checkstyle validation of coding rules with build breaking functionality
+
+test
