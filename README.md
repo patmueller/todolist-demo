@@ -11,4 +11,4 @@ It should expose the following features
 * separate creation of javadoc to upload into maven candidate repository
 * checkstyle validation of coding rules with build breaking functionality
 
-test5
+test6
